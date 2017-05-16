@@ -1,0 +1,3 @@
+div > p.jojo{color:green;}
+p.joz + p{color: blue;}
+p.jozo ~ p{color: red;}

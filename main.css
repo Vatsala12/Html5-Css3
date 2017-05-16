@@ -1,0 +1,7 @@
+#cc{color:blue;}
+.sand{color: orange;}
+p.piz{color: green;}
+p[name="vts"]{color: purple;}
+p[name^="dog"]{color:red;}
+p[name$="dog"]{color:grey;}
+p[name*="bacon"]{color:red;}
